@@ -3,10 +3,10 @@
 One prompt that sets up a free toolkit for making short videos as code with Claude: HTML-to-MP4 rendering, animation skills, CC0 sound effects and a lossless trimming tool. Paste it into Claude, answer three questions, and it installs everything from official sources, checks licenses, and asks before anything risky.
 
 <p align="center">
-  <img src="media/demo.gif" width="240" alt="A 5-second vertical demo: a heading slides in, three cards stagger in, a progress bar fills and a DONE stamp pops">
+  <img src="media/demo.gif" width="240" alt="A 10-second vertical demo: code types into an editor, splits into three video frames, renders, then 10 tool chips collapse into one prompt card">
 </p>
 
-The demo above was built with this toolkit: a GSAP timeline rendered to MP4 by HyperFrames, scored with CC0 sounds placed on each animation's start time. Sound version: [media/demo.mp4](media/demo.mp4).
+The 10-second demo above was built with this toolkit: one GSAP timeline rendered to MP4 by HyperFrames, scored with CC0 sounds placed on each animation's start time. Sound version: [media/demo.mp4](media/demo.mp4).
 
 ## What it sets up
 
